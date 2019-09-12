@@ -1,4 +1,4 @@
-package pl.martajastrzabek.textstatistics;
+package pl.martajastrzabek.textstatistics.servlet;
 
 import pl.martajastrzabek.textstatistics.service.TextStatistics;
 
